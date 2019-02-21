@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# MXNet_Test
-**The main role of the project: MXNet's usage**  
-**Note: Clone this repository to E:/GitCode/ in windows**
 - open source library version:
 	- MXNet: 1.3.0, [GitHub](https://github.com/apache/incubator-mxnet/releases)
 	- OpenBLAS: 0.3.3, [GitHub](https://github.com/xianyi/OpenBLAS/releases)
@@ -20,11 +16,3 @@
 - Linux 
 	- ThirdPartyLibrary_Test support cmake build(file position: prj/linux_cmake_ThirdPartyLibrary_Test)
 	- MXNet_Test support cmake build(file position: prj/linux_cmake_MXNet_Test)
-
-**Windows VS Screenshot:**  
-![](https://github.com/fengbingchun/MXNet_Test/blob/master/prj/x86_x64/Screenshot.png)
-
-**Blog:** [fengbingchun](https://blog.csdn.net/fengbingchun/article/category/8523737)
-=======
-# MXNet_Test
->>>>>>> 53430814800db07ce13cdf2dc8f5a759425785ad
