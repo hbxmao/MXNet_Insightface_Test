@@ -8,6 +8,8 @@ MXNet_Insightface_Test
 本工程将上述两工程合并，结合mxnet+insightface+opencv3.2.0,vs2017下成功编译运行，语言环境为C++。
 原作者1提供的insightface特征提取模型较小，可采用insightface作者提供的模型，识别率高于作者1。
 
+
+
 下面是MXNet_Test工程的readme.md
 - open source library version:
 	- MXNet: 1.3.0, [GitHub](https://github.com/apache/incubator-mxnet/releases)
