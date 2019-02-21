@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# MXNet_Test
-**The main role of the project: MXNet's usage**  
-**Note: Clone this repository to E:/GitCode/ in windows**
 - open source library version:
 	- MXNet: 1.3.0, [GitHub](https://github.com/apache/incubator-mxnet/releases)
 	- OpenBLAS: 0.3.3, [GitHub](https://github.com/xianyi/OpenBLAS/releases)
