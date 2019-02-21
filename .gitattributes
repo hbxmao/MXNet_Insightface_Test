@@ -2,4 +2,4 @@
 *.hpp linguist-language=c++
 *.c linguist-language=c++
 *.h linguist-language=c++
-*.f linguist-language=c++
+*.f linguist-language=C++
