@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MXNet_Test
 **The main role of the project: MXNet's usage**  
 **Note: Clone this repository to E:/GitCode/ in windows**
@@ -24,3 +25,6 @@
 ![](https://github.com/fengbingchun/MXNet_Test/blob/master/prj/x86_x64/Screenshot.png)
 
 **Blog:** [fengbingchun](https://blog.csdn.net/fengbingchun/article/category/8523737)
+=======
+# MXNet_Test
+>>>>>>> 53430814800db07ce13cdf2dc8f5a759425785ad
