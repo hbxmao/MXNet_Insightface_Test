@@ -3,7 +3,6 @@ MXNet_Insightface_Test
 参考如下工程
 
 1、insightface的C++版本：https://github.com/njvisionpower/mxnet-insightface-cpp <br>
-	csdn博客:https://blog.csdn.net/fengbingchun/article/category/8523737
 
 2、mxnet的C++编译环境：https://github.com/fengbingchun/MXNet_Test <br>
 	csdn博客：https://blog.csdn.net/fengbingchun/article/details/84997490
